@@ -53,13 +53,36 @@ html{
 }
 
 
-
-
 P{
     font-family: 'Roboto Mono', monospace;
+   
 
 }
 
+h1{
+    font-family: 'Chelsea Market', cursive;
+    font-size: 4rem;
+}
+
+.title{
+    text-align: right;
+}
+
+.textbox1{
+    text-align: right;
+    
+}
+
+.text{
+    text-align: right;
+}
+
+#paragraph{
+    background: #DDB9A3;
+    color: white;
+    width: 60rem;
+    margin-right: 20%;
+}
 
 .photo{
     /* border-radius: 100%; */
@@ -79,7 +102,61 @@ P{
 
 .container2{
     height: 15rem;
-    width: 75rem;
+    width: 70rem;
     /* border: 10px solid red; */
    
 }
+
+#firecontainer{
+    border: 1px solid red;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.fire{
+    border: 1px solid red;
+}
+
+#buscontainer{
+    padding-left: 25%;
+    padding-right: 25%;
+    border: 1px solid red;
+}
+
+.bus{
+    border: 1px solid red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+#container7{
+    background-color: #F9E7DC;xcz
+    border: 1px red solid;
+}
+
+
+.photo2{
+    border: 1px red solid;  
+
+}
+
+#widephoto{
+    height: 100%;
+    width: 100%;
+    
+} */
+
